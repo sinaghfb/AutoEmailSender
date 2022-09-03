@@ -1,0 +1,7 @@
+﻿{
+  "Name": "sina",
+  "EmailAddress": "sinadummyemail@gmail.com",
+  "ServerAddress": "smtp.gmail.com",
+  "Port": 587,
+  "Password": "sina12345"
+}
